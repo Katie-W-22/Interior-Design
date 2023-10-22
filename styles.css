@@ -25,6 +25,7 @@
 body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  background-color:rgb(245, 237, 226);
 }
 
 img,
@@ -608,6 +609,6 @@ footer {
 }
 
 .black{
-  color: white;
+  color:rgb(245, 237, 226);
   background-color: black;
 }
