@@ -1,5 +1,5 @@
 # Interior-Design
-
+With the BCC Sports app as my inspiration, I re-created it on a theme closer to my own heart! Interior design and shopping! 
 https://github.com/Katie-W-22/Interior-Design/assets/142401708/e29436a3-45d9-45c2-996f-f1202c5c1349
 
 
